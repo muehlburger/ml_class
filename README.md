@@ -8,7 +8,11 @@ These are my assignments for Stanford's Machine Learning class 2011. For more in
 
 Contribution
 ------------
-Feel free to fork my work and contribute to it. I will be happy to get feedback.
+Feel free to fork my work and contribute to it. Feedback is much appreciated.
+
+Contact
+-------
+You can contact me at [http://blog.muehlburger.at] or on Twitter [http://twitter.com/hmuehlburger|@hmuehlburger]
 
 Kind regards,
 Herbert
