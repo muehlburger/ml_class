@@ -1,0 +1,27 @@
+Betreff:
+Re: VT + SASE Übung
+Von:
+Florian Klien <florian@klien.cx>
+Datum:
+22.10.11 13:25
+An:
+Herbert Mühlburger <mail@muehlburger.at>
+
+On 10/21/2011 02:41 PM, Herbert Mühlburger wrote:
+> > Servus Flo,
+> > 
+> > Kannst du mir bitte bei Gelegenheit die SASE und VT Übung schicken?
+
+ich hab zur VT übung leider nix :(
+
+die war mehrheitlich auf papier zu rechnen und abzugeben.
+
+leider
+
+lg
+flo
+
+ps: das sase zeug lad ich grad hoch. das sollte dann unter:
+http://flo.cx/tu/sase_archive.tar.gz zu finden sein. dauert aber
+sicher noch etwa eine stunde.
+
